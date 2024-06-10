@@ -64,7 +64,7 @@ const AboutUs = () => {
             </div>
             <div className="max-w-lg">
               <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                Priyadarsi Bala
+                Priyadarsi Bal
               </h2>
               <h3 className="text-lg font-extrabold text-gray-900 sm:text-xl">
                 Founder & CEO

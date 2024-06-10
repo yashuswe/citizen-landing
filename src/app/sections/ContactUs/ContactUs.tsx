@@ -34,10 +34,12 @@ const ContactUs = () => {
                     Address
                   </dt>
                   <dd className="mt-2 text-base text-gray-500">
-                    Flat No 1503, Tower 22, BPTP Terra, Sector- 37D
+                    303 Somdutt Chamber 1
+Bhikajicama Place
+
                     <br />
-                    Gurugram 122001{" "}
-                  </dd>
+New Delhi 
+110022                  </dd>
                 </div>
               </div>
 

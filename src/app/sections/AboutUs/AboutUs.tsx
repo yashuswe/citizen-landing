@@ -19,7 +19,8 @@ const AboutUs = () => {
         been pivotal in the firm&apos;s ability to offer tailored consultancy
         services that meet the specific needs of each candidate.
       </p>
-      <div className="p-8">
+           <div className="py-6 w-full h-5"></div>
+
         <Title id="founders" text="Founders" />
       </div>
       <section className="bg-gray-100">

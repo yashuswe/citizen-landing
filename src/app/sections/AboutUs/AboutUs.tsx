@@ -85,4 +85,7 @@ const AboutUs = () => {
         </div>
       </section>
     </div>
- 
+  );
+};
+
+export default AboutUs;

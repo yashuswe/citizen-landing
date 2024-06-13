@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Citizenwave",
+  title: " Citizenwave",
   description: "The wave that moves forward",
 };
 
@@ -16,6 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+      <link rel="icon" href="/logo-png.png" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

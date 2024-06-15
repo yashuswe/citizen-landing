@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: " Citizenwave",
   description: "The wave that moves forward",
   icons : {
-    icon : "/favicon.ico"
+    icon : "/assets/image.png"
   }
 };
 
@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-      <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2175/2175193.png" sizes="any"/>
+      <link rel="icon" href="/public/favicon.ico" sizes="any"/>
       </head>
       <body className={inter.className}>{children}</body>
     </html>

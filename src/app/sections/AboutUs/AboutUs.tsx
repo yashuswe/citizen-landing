@@ -25,7 +25,7 @@ const AboutUs = () => {
         Citizenwave Consulting has successfully managed campaigns for multiple
         Lok Sabha candidates across India and Vidhan Sabha candidates in Odisha.
         A notable achievement includes the comprehensive management of Pravati
-        Parida's campaign in the Nimapara constituency, which played a crucial
+        Parida&apos;s campaign in the Nimapara constituency, which played a crucial
         role in her election as Deputy Chief Minister of Odisha. We combine
         traditional political know-how with modern digital techniques to deliver
         impactful results. As we continue to expand our reach and influence, we
@@ -78,7 +78,7 @@ const AboutUs = () => {
               </h3>
               <p className="mt-4 text-gray-600 text-lg">
                 Arpan Srivastava is a co-founder and Director at Citizenwave. He
-                is also the CEO of DigitalWins, one of India's leading Martech
+                is also the CEO of DigitalWins, one of India&apos;s leading Martech
                 companies with clients including Indian Terrain, FabIndia, and
                 Aditya Birla Group. In his prior role at Cadentic Consulting
                 Inc. in the US, he spearheaded sales, securing partnerships with
@@ -103,7 +103,7 @@ const AboutUs = () => {
             <div className="mt-12 md:mt-0">
               <Image
                 src={Vivek}
-                alt="Priyadarsi Bal"
+                alt="Vivek Singh"
                 className="object-cover rounded-lg shadow-md"
                 height={100}
                 width={800}
@@ -122,7 +122,7 @@ const AboutUs = () => {
                 Time, Space, and Bodies. His research and writing are rooted in
                 international politics and cross the fields of anthropology,
                 indigenous studies, Civilization, Religion, Race, and Gender
-                studies, as well as Politics.
+                studies, as well as Politics.
               </p>
             </div>
           </div>

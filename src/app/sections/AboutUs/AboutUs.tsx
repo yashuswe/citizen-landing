@@ -43,6 +43,7 @@ const AboutUs = () => {
               <Image
                 src={Bala}
                 alt="Priyadarsi Bal"
+                width={600}
                 className="object-cover rounded-lg shadow-md"
               />
             </div>
@@ -91,6 +92,7 @@ const AboutUs = () => {
               <Image
                 src={Arpan}
                 alt="Arpan Srivastava"
+                height={450}
                 className="object-cover rounded-lg shadow-md"
               />
             </div>
@@ -105,8 +107,7 @@ const AboutUs = () => {
                 src={Vivek}
                 alt="Vivek Singh"
                 className="object-cover rounded-lg shadow-md"
-                height={100}
-                width={800}
+                width={600}
               />
             </div>
             <div className="max-w-lg">

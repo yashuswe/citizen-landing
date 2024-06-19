@@ -8,7 +8,7 @@ import Title from "@/app/components/Title";
 
 const Services = () => {
   return (
-    <div className="px-4">
+    <div className="px-4 mt-6">
         <Title id="services" text="Our Services"/>
  <div className="container mx-auto py-8">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

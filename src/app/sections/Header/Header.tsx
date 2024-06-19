@@ -19,6 +19,7 @@ const Header = () => {
           <Link href="#services" className="hover-link">Our Services</Link>
           <Link href="#experience" className="hover-link">Previous Experience</Link>
           <Link href="#founders" className="hover-link">Founders</Link>
+          <Link href="#news" className="hover-link">In The News</Link>
           <Link href="#contact" className="hover-link">Contact Us</Link>
         </nav>
         <div className="md:hidden">

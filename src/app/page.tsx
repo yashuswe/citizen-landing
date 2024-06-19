@@ -5,6 +5,7 @@ import Services from "./sections/Services";
 import Experience from "./sections/Experience";
 import AboutUs from "./sections/AboutUs";
 import ContactUs from "./sections/ContactUs";
+import News from "./sections/News";
 export default function Home() {
   return (
     <main>
@@ -13,6 +14,7 @@ export default function Home() {
       <Services/>
       <Experience/>
       <AboutUs/>
+      <News/>
       <ContactUs/>
     </main>
   );

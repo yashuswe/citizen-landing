@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Header from "./sections/Header";
-import Hero from "./sections/hero/Hero";
+import Hero from "./sections/HeroSection/Hero";
 import Services from "./sections/Services";
 import Experience from "./sections/Experience";
 import AboutUs from "./sections/AboutUs";
